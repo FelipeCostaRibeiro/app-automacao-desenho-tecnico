@@ -11,7 +11,13 @@
 
 ## Como usar
 
-1. Instale o arquivo "Senaio V2.Apk" na seção "Release" e abra o aplicativo.
+1.Instalação:
+  - Acesse a seção **Releases**.
+
+  - Clique no arquivo **automacao-desenho-tecnico-v1.0.0.apk** dentro da lista de "Assets".
+
+  - No Android, autorize a instalação de fontes desconhecidas para concluir.
+
 2. Insira as especificações da peça (dimensões) e as medidas úteis da folha (área interna das margens), tudo em milímetros.
 3. Clique em Calcular para gerar os resultados instantaneamente.
 
