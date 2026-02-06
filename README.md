@@ -23,6 +23,6 @@
 ## Capturas de Tela
 
 <div align="center">
-  <img width="300" alt="Captura de tela 1" src="https://github.com/user-attachments/assets/22356668-e64c-4ad9-bb72-7b83906342d8" />
-  <img width="300" alt="Captura de tela 2" src="https://github.com/user-attachments/assets/2fab1d6f-ffc9-46d4-bf2b-341a6ecd0a43" />
+<img width="576" height="988" alt="Captura de tela 2026-02-05 195550" src="https://github.com/user-attachments/assets/61ae0001-b3cb-4c7e-9a9a-82a4bd6f7246" />
+<img width="567" height="983" alt="Captura de tela 2026-02-05 195616" src="https://github.com/user-attachments/assets/59540a0c-b6b6-415a-89db-aff4fd8c3dd4" />
 </div>
