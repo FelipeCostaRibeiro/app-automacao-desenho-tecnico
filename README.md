@@ -27,6 +27,8 @@
 ## Capturas de Tela
 
 <div align="center">
+
+<img width="594" height="594" alt="logo" src="https://github.com/user-attachments/assets/5c36cee7-1db1-42af-a20f-56eca590e6f3" />
 <img width="576" height="988" alt="Captura de tela 2026-02-05 195550" src="https://github.com/user-attachments/assets/61ae0001-b3cb-4c7e-9a9a-82a4bd6f7246" />
 <img width="577" height="1000" alt="Captura de tela 2026-02-06 180221" src="https://github.com/user-attachments/assets/e0330105-94f9-4b57-a6be-adf50f8be903" />
 </div>
